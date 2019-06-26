@@ -1,3 +1,3 @@
 # projectTwo
 
-![](assets/images/screenshot.png)
+![](assets/images/Screenshot.png)
