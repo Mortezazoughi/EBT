@@ -16,7 +16,7 @@ other.
 be giving you and your employees the ability to make better,
 faster decisions and access information from virtually anywhere by
 
-**1]** Aligning business values with raw data
-**2]** Utilizing real-time data to leverage change
-**3]** Managing and deploying robust real-time solutions
-**4]** Reconciling systems of record and systems of engagement
+**1.** Aligning business values with raw data
+**2.** Utilizing real-time data to leverage change
+**3.** Managing and deploying robust real-time solutions
+**4.** Reconciling systems of record and systems of engagement
