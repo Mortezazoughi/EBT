@@ -3,7 +3,7 @@
 ![](assets/images/Screenshot.png)
 
 # Enterprise Business Tool
-#### In this project we have created an that will
+#### In this project we have created an app that will
 offer a number of features under our template so that employers
 can easily manage resources, employees, and stock. 
 Multiple access levels for management to choose from, allowing for
